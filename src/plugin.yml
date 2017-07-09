@@ -1,0 +1,8 @@
+name: wallsBattle
+version: 0.2
+author: MrFroz (c)
+main: fr.froz.Main
+commands:
+      init:
+           description: restore
+           usage: /init 500 20 500
